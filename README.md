@@ -19,4 +19,4 @@ python script.py wordlist.txt
     - Reads wordlists line by line
     - Simple CLI interface
 
-**Note:** This tool is strictly for educational and authorized testing purposes; any unauthorized use is illegal and the user's sole responsibility.
+**Note:** This tool is strictly for educational and authorized security testing purposes.
