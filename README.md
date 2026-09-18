@@ -18,3 +18,5 @@ python script.py wordlist.txt
     - Uses Python standard hashlib (MD5, SHA1, SHA256, etc.)
     - Reads wordlists line by line
     - Simple CLI interface
+
+**Note:** This tool is strictly for educational and authorized testing purposes; any unauthorized use is illegal and the user's sole responsibility.
